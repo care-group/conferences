@@ -2,7 +2,7 @@
 
 ### Conferences
 
-This list covers conferences of specific interest to our research group, in addition to machine learning and robotics conferences more broadly. Jackie Tseng already has a comprehensive and useful list of those conferences [here](https://jackietseng.github.io/conference_call_for_paper/conferences.html).
+This list covers conferences of specific interest, in addition to machine learning and robotics conferences more broadly. Jackie Tseng already has a comprehensive and useful list of those conferences [here](https://jackietseng.github.io/conference_call_for_paper/conferences.html).
 
 | Conference | Location | Submission Deadline | Conference Date | Website |
 |-----------------|----------|:-------------------:|:---------------:|:-------:|
