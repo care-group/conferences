@@ -1,6 +1,6 @@
-## 2020-2021 International Conferences and Special Issues in Ambient Intelligence, Health/Medical AI & Robotics, Ubiquitous Computing, and Internet of Things (IoT)
+## 2020-2021 International Conferences and Special Issues in Ambient Intelligence, Health/Medical AI & Robotics, Ubiquitous Computing, and Internet of Things (IoT)#
 
-## Conferences
+### Conferences
 
 This list covers conferences of specific interest to our research group, in addition to machine learning and robotics conferences more broadly. Jackie Tseng already has a comprehensive and useful list of those conferences [here](https://jackietseng.github.io/conference_call_for_paper/conferences.html).
 
@@ -18,6 +18,6 @@ This list covers conferences of specific interest to our research group, in addi
 | MobiHealth      |  St. Andrews, Scotland | 8th June 2020 | 14th - 15th November 2020 | [link](http://mobihealth.name) |
 | IEEE CIIoT      | Canberra, Australia | 7th August 2020 | 1st - 4th December 2020 | [link](http://ieeessci2020.org/symposiums/ciiot.html) |
 
-## Special Issues
+### Special Issues
 | Journal | Title | Submission Deadline |
 | --------|-------|:--------------------|
