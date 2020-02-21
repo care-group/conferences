@@ -1,4 +1,6 @@
-# 2020-2021 International Conferences in Ambient Intelligence, Health/Medical AI & Robotics, Ubiquitous Computing, and Internet of Things (IoT)
+## 2020-2021 International Conferences and Special Issues in Ambient Intelligence, Health/Medical AI & Robotics, Ubiquitous Computing, and Internet of Things (IoT)
+
+## Conferences
 
 This list covers conferences of specific interest to our research group, in addition to machine learning and robotics conferences more broadly. Jackie Tseng already has a comprehensive and useful list of those conferences [here](https://jackietseng.github.io/conference_call_for_paper/conferences.html).
 
@@ -6,5 +8,16 @@ This list covers conferences of specific interest to our research group, in addi
 |-----------------|----------|:-------------------:|:---------------:|:-------:|
 | ISAmI           | L'Aquila, Italy | ~~17th February 2020~~ | 17th - 19th June 2020 | [link](https://www.isami-conference.net) |
 | PETRA           | Corfu Island, Greece | ~~31st January 2020~~ | 30th June - 3rd July 2020 | [link](http://www.petrae.org) |
-| AMBIENT         | Nice, France | 31st March 2020 | 26th - 30th July 2020 | [link](https://www.iaria.org/conferences2020/AMBIENT20.html) |
-| MobiHealth |  St. Andrews, Scotland | 8th June 2020 | 14th - 15th November 2020 | [link](http://mobihealth.name) |
+| IntelliSys 2020 | Amsterdam, Netherlands | ~~1st February 2020~~ | 3rd - 4th September 2020 | [link](https://saiconference.com/IntelliSys2020/CallforPapers) |
+| IE              | Madrid, Spain | ~~2nd February 2020~~ | 22nd - 25th June 2020 | [link](https://blogs.upm.es/ie2020/) |
+| ITAAL           | Leuven, Belgium | 19th March 2020 | 9th - 12th August 2020 | [link](https://easychair.org/cfp/ITAAL2020)
+| AMBIENT         | Nice, France | 31st March 2020 | 26th - 30th July 2020 | [link](https://www.iaria.org/conferences2020/AMBIENT20.html)   |
+| IoT             | Malmö, Sweden | 1st May 2020 | 6th - 9th October 2020 | [link](https://iot-conference.org/iot2020) |
+| AIRS            | Rome, Italy | 15th May 2020 | 24th - 26th August 2020 | [link](https://airs.turion.info) |
+| IBICC           | Tokyo, Japan | 31st May 2020 | 9th - 11th October 2020 | [link](http://www.icbicc.org) |
+| MobiHealth      |  St. Andrews, Scotland | 8th June 2020 | 14th - 15th November 2020 | [link](http://mobihealth.name) |
+| IEEE CIIoT      | Canberra, Australia | 7th August 2020 | 1st - 4th December 2020 | [link](http://ieeessci2020.org/symposiums/ciiot.html) |
+
+## Special Issues
+| Journal | Title | Submission Deadline |
+| --------|-------|:--------------------|
