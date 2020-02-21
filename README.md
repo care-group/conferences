@@ -1,4 +1,4 @@
-## 2020-2021 International Conferences and Special Issues in Ambient Intelligence, Health/Medical AI & Robotics, Ubiquitous Computing, and Internet of Things (IoT)#
+## 2020-2021 International Conferences and Special Issues in Ambient Intelligence, Health/Medical AI & Robotics, Ubiquitous Computing, and Internet of Things (IoT)
 
 ### Conferences
 
