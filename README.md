@@ -21,3 +21,5 @@ This list covers conferences of specific interest to our research group, in addi
 ### Special Issues
 | Journal | Title | Submission Deadline |
 | --------|-------|:--------------------|
+| MDPI Electronics | Robots in Assisted Living | 15th August 2020 |
+| ACM Transactions on Sensor Networks | Computational Intelligence in IoT | 30th June 2020 | 
