@@ -4,4 +4,7 @@ This list covers conferences of specific interest to our research group, in addi
 
 | Conference Name | Location | Submission Deadline | Conference Date | Website |
 |-----------------|----------|:-------------------:|:---------------:|:-------:|
-| ISAmI           | L'Aquila, Italy | 17th February 2020 | 17th-19th June 2020 | [link](https://www.isami-conference.net) |
+| ISAmI           | L'Aquila, Italy | ~~17th February 2020~~ | 17th - 19th June 2020 | [link](https://www.isami-conference.net) |
+| PETRA           | Corfu Island, Greece | ~~31st January 2020~~ | 30th June - 3rd July 2020 | [link](http://www.petrae.org) |
+| AMBIENT         | Nice, France | 31st March 2020 | 26th - 30th July 2020 | [link](https://www.iaria.org/conferences2020/AMBIENT20.html) |
+| 
