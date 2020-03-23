@@ -10,7 +10,7 @@ This list covers conferences of specific interest, in addition to machine learni
 | IntelliSys 2020 | Amsterdam, Netherlands | ~~1st February 2020~~ | 3rd - 4th September 2020 | [link](https://saiconference.com/IntelliSys2020/CallforPapers) |
 | IE              | Madrid, Spain | ~~2nd February 2020~~ | 22nd - 25th June 2020 | [link](https://blogs.upm.es/ie2020/) |
 | ISAmI           | L'Aquila, Italy | ~~17th February 2020~~ | 17th - 19th June 2020 | [link](https://www.isami-conference.net) |
-| ITAAL           | Leuven, Belgium | 19th March 2020 | 9th - 12th August 2020 | [link](https://easychair.org/cfp/ITAAL2020)
+| ITAAL           | Leuven, Belgium | ~~19th March 2020~~ | 9th - 12th August 2020 | [link](https://easychair.org/cfp/ITAAL2020)
 | AMBIENT         | Nice, France | 31st March 2020 | 26th - 30th July 2020 | [link](https://www.iaria.org/conferences2020/AMBIENT20.html)   |
 | IoT             | Malmö, Sweden | 1st May 2020 | 6th - 9th October 2020 | [link](https://iot-conference.org/iot2020) |
 | AIRS            | Rome, Italy | 15th May 2020 | 24th - 26th August 2020 | [link](https://airs.turion.info) |
