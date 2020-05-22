@@ -11,10 +11,10 @@ This list covers conferences of specific interest, in addition to machine learni
 | IE              | Madrid, Spain | ~~2nd February 2020~~ | 22nd - 25th June 2020 | [link](https://blogs.upm.es/ie2020/) |
 | ISAmI           | L'Aquila, Italy | ~~17th February 2020~~ | 7th - 9th October 2020 | [link](https://www.isami-conference.net) |
 | ITAAL           | Leuven, Belgium | ~~19th March 2020~~ | 9th - 12th August 2020 | [link](https://easychair.org/cfp/ITAAL2020)
-| AMBIENT         | Nice, France | 31st March 2020 | 225th - 29th October 2020 | [link](https://www.iaria.org/conferences2020/AMBIENT20.html)   |
-| IoT             | Malmö, Sweden | 1st May 2020 | 6th - 9th October 2020 | [link](https://iot-conference.org/iot2020) |
-| AIRS            | Rome, Italy | 15th May 2020 | ```diff -cancelled```| [link](https://airs.turion.info) |
-| IBICC           | Tokyo, Japan | 31st May 2020 | 9th - 11th October 2020 | [link](http://www.icbicc.org) |
+| AMBIENT         | Nice, France | ~~31st March 2020~~ | 25th - 29th October 2020 | [link](https://www.iaria.org/conferences2020/AMBIENT20.html)   |
+| IoT             | Malmö, Sweden | ~~1st May 2020~~ | 6th - 9th October 2020 | [link](https://iot-conference.org/iot2020) |
+| AIRS            | Rome, Italy | ~~15th May 2020~~ | CANCELLED | [link](https://airs.turion.info) |
+| IBICC           | Tokyo, Japan | ~~31st May 2020~~ | 9th - 11th October 2020 | [link](http://www.icbicc.org) |
 | MobiHealth      |  St. Andrews, Scotland | 8th June 2020 | 14th - 15th November 2020 | [link](http://mobihealth.name) |
 | IEEE CIIoT      | Canberra, Australia | 7th August 2020 | 1st - 4th December 2020 | [link](http://ieeessci2020.org/symposiums/ciiot.html) |
 
