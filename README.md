@@ -16,12 +16,12 @@ This list covers conferences of specific interest, in addition to machine learni
 | AIRS            | Rome, Italy | ~~15th May 2020~~ | CANCELLED | [link](https://airs.turion.info) |
 | IBICC           | Tokyo, Japan | ~~31st May 2020~~ | 9th - 11th October 2020 | [link](http://www.icbicc.org) |
 | MobiHealth      |  St. Andrews, Scotland | ~~8th June 2020~~ | 14th - 15th November 2020 | [link](http://mobihealth.name) |
-| IEEE CIIoT      | Canberra, Australia | 7th August 2020 | 1st - 4th December 2020 | [link](http://ieeessci2020.org/symposiums/ciiot.html) |
+| IEEE CIIoT      | Canberra, Australia | ~~7th August 2020~~ | 1st - 4th December 2020 | [link](http://ieeessci2020.org/symposiums/ciiot.html) |
 
 ### Special Issues
 | Journal | Title | Submission Deadline |
 | --------|-------|:--------------------|
 | MDPI Sensors | Ambient Intelligence in Health Care | ~~30th April 2020~~ |
 | ACM Transactions on Sensor Networks | Computational Intelligence in IoT | ~~30th June 2020~~ | 
-| MDPI Electronics | Robots in Assisted Living | 15th August 2020 |
-| MDPI Sensors | Ambient Assisted Living (AAL): Sensors, Architectures and Applications 2019 | 30th September 2020 |
+| MDPI Electronics | Robots in Assisted Living | ~~15th August 2020~~ |
+| MDPI Sensors | Ambient Assisted Living (AAL): Sensors, Architectures and Applications 2019 | ~~30th September 2020~~ |
