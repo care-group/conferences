@@ -20,7 +20,7 @@ This list covers conferences of specific interest, in addition to machine learni
 
 ### Special Issues
 | Journal | Title | Submission Deadline |
-| --------|-------|:--------------------|
+| --------|-------|:-------------------:|
 | MDPI Sensors | Ambient Intelligence in Health Care | ~~30th April 2020~~ |
 | ACM Transactions on Sensor Networks | Computational Intelligence in IoT | ~~30th June 2020~~ | 
 | MDPI Electronics | Robots in Assisted Living | ~~15th August 2020~~ |
