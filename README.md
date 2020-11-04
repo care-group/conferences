@@ -27,9 +27,13 @@ This list covers conferences of specific interest, in addition to machine learni
 | IoTCare         | Leicester, England | 12th March 2021 | 18th October 2021 | [link](https://iotcare.eai-conferences.org/2021/) |
 
 ### Special Issues
-| Journal | Title | Submission Deadline |
-| --------|-------|:-------------------:|
-| MDPI Sensors | Ambient Intelligence in Health Care | ~~30th April 2020~~ |
-| ACM Transactions on Sensor Networks | Computational Intelligence in IoT | ~~30th June 2020~~ | 
-| MDPI Electronics | Robots in Assisted Living | ~~15th August 2020~~ |
-| MDPI Sensors | Ambient Assisted Living (AAL): Sensors, Architectures and Applications 2019 | ~~30th September 2020~~ |
+
+This is a non-exhaustive list of potential journals with relevant special issues:
+* [ACM - Transactions on Internet of Things](https://dl.acm.org/journal/tiot)
+* [ACM - Transactions on Sensor Networks](https://dl.acm.org/journal/tosn)
+* [Elsevier - Pervasive and Mobile Computing Special Issues](https://www.journals.elsevier.com/pervasive-and-mobile-computing/special-issues) 
+* [IEEE - IoT](https://ieee-iotj.org/special-issues/)
+* [IEEE - Sensors](https://ieee-sensors.org/sensors-journal/sensors-journal-special-issues/)
+* [MDPI - Electronics](https://www.mdpi.com/journal/electronics/special_issues)
+* [MDPI - IoT](https://www.mdpi.com/journal/IoT/special_issues)
+* [MDPI - Sensors](https://www.mdpi.com/journal/sensors/special_issues?page_no=1)
