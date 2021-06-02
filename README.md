@@ -20,11 +20,11 @@ This list covers conferences of specific interest, in addition to machine learni
 | GCAIoT          | Online | ~~12th September 2020~~ | 12th - 15th December 2020 | [link](https://gcaiot.org) |
 | ICCIoT          | Online | ~~7th November 2020~~ | 23rd - 24th January 2021 | [link](https://ccseit2021.org/icciot/index.html) |
 | PerCom          | Online | ~~4th October 2020~~ | 22nd - 26th March 2021 | [link](http://www.percom.org) |
-| ICT4AWE         | Online | 30th November 2020 | 24th - 26th April 2021 | [link](http://www.ict4ageingwell.org) |
+| ICT4AWE         | Online | ~~30th November 2020~~ | 24th - 26th April 2021 | [link](http://www.ict4ageingwell.org) |
 | IoTDI           | Nashville, USA | ~~26th October 2020~~ | 18th - 21st May 2021 | [link](https://ccseit2021.org/icciot/index.html) |
-| WF-IoT          | New Orleans, USA | 15th January 2021 | 20th - 24t June 2021 | [link](https://wfiot2021.iot.ieee.org) |
-| IE              | Dubai, UAE | 1st December 2020 | 21st - 24th June 2021 | [link](https://mdx.ac.ae/ie2021) |
-| IoTCare         | Leicester, England | 12th March 2021 | 18th October 2021 | [link](https://iotcare.eai-conferences.org/2021/) |
+| WF-IoT          | New Orleans, USA | ~~15th January 2021~~ | 20th - 24t June 2021 | [link](https://wfiot2021.iot.ieee.org) |
+| IE              | Dubai, UAE | ~~1st December 2020~~ | 21st - 24th June 2021 | [link](https://mdx.ac.ae/ie2021) |
+| IoTCare         | Leicester, England | ~~12th March 2021~~ | 18th October 2021 | [link](https://iotcare.eai-conferences.org/2021/) |
 
 ### Special Issues
 
